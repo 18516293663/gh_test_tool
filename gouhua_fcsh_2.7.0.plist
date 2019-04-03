@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.164.194.121/static/ipa/packet/gouhua_fc_sh_2.7.0.ipa</string>
+					<string>http://10.164.194.121/static/ipa/packet/gouhua_fcsh_2.7.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
